@@ -1,7 +1,6 @@
 #### Hi there 👋, Shadhin Babu
 #### Web Developer
-[![Web Developer](https://avatars.githubusercontent.com/)](https://avatars.githubusercontent.com/u/75007862?v=4)
-
+https://avatars.githubusercontent.com/u/75007862?v=4
 I am a passionate web developer with expertise in creating dynamic and responsive websites. Proficient in HTML, CSS, and Bootstrap, I design user-friendly interfaces that enhance the user experience. My JavaScript skills allow me to implement interactive features, while my PHP knowledge enables me to develop robust back-end solutions. I have experience with WordPress for building content-driven sites and Laravel for crafting scalable web applications. I thrive on solving complex problems and continually seek to expand my skills in the ever-evolving tech landscape.
 
 Skills: REACT / JS / HTML / CSS/PHP
